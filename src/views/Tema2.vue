@@ -281,7 +281,7 @@
     .row
       p En la actualidad, existen diversos instrumentos Normativos de Ciberseguridad, con los cuales, el gobierno busca regular y controlar los ciberataques y los ciberdelincuentes; Entre los decretos, leyes y artículos se destacan:
 
-    .row
+    .row.justify-content-around.align-items-center
       .col-lg-9
         .tarjeta.tarjeta--gris.p-4
           LineaTiempoC.color-secundario(text-small)
@@ -408,7 +408,8 @@
             
       .col-lg-3
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema2/img10.svg', alt='Texto que describa la imagen')    
+          img(src='@/assets/curso/temas/tema2/img10.svg', alt='Texto que describa la imagen').width-card-tema2 
+
 
 
     .row.mt-5

@@ -269,108 +269,155 @@ export default {
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=50583',
     },
     {
-      referencia: '',
+      referencia:
+        'Decreto 2609 de 2012. Expediente electrónico. Recuperado de:',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=50958',
+    },
+    {
+      referencia: 'Decreto 2693 de 2012. Gobierno en línea. Recuperado de: ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=51198',
+    },
+    {
+      referencia:
+        'Decreto 333 de 2014. Entidades de certificación. Recuperado de:',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56767',
+    },
+    {
+      referencia:
+        'Decreto Ley 019 de 2012. Racionalizar trámites a través de medios electrónicos. Recuperado de:',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=45322',
+    },
+    {
+      referencia:
+        'EALDE Business School, 2021. Consejos para hacer una auditoría de seguridad informática para evitar riesgos digitales. Recuperado de:',
+      link: 'https://www.ealde.es/auditoria-de-seguridad-informatica/',
+    },
+    {
+      referencia:
+        'Kaspersky, 2022. Protección esencial contra virus para la PC. Recuperado de:',
+      link: 'https://latam.kaspersky.com/antivirus',
+    },
+    {
+      referencia:
+        'Ley 1150 de 2007. Seguridad de la información en contratación pública. Recuperado de:',
+      link: 'http://www.oas.org/juridico/spanish/mesicic3_col_ley1150.pdf',
+    },
+    {
+      referencia: 'Ley 1266 de 2008. Habeas data. Recuperado de:',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34488#:~:text=HABEAS%20DATA&text=Dicta%20las%20disposiciones%20generales%20del,la%20proveniente%20de%20terceros%20pa%C3%ADses',
+    },
+    {
+      referencia:
+        'Ley 1273 de 2009. Protección de información de los datos. Recuperado de: ',
+      link:
+        'https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
+    },
+    {
+      referencia:
+        'Ley 1341 de 2009. Principios y conceptos sobre la sociedad de la información y la organización de las TIC. Recuperado de: ',
+      link: 'funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36913',
+    },
+    {
+      referencia: 'Decreto 1377 de 2013. Protección de datos. Recuperado de: ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646',
+    },
+    {
+      referencia:
+        'Ley 1437 de 2011. Procedimiento Administrativo y de lo Contencioso Administrativo. Recuperado de:',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249',
+    },
+    {
+      referencia: 'Ley 1480 de 2011. Estatuto del consumidor. Recuperado de:',
+      link:
+        'https://www.sic.gov.co/recursos_user/documentos/normatividad/Leyes/2011/Ley_1480_Estatuto_Consumidor.pdf',
+    },
+    {
+      referencia:
+        'Ley 1581 de 2012. Protección de datos personales. Recuperado de: ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
+    },
+    {
+      referencia:
+        'Ley 1712 de 2014. Transparencia y derecho al acceso a la información pública nacional. Recuperado de: ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56882',
+    },
+    {
+      referencia:
+        'LEY 1928 de 2018 [CONGRESO DE COLOMBIA]. Por medio de la cual se aprueba el Convenio sobre la Ciberdelincuencia, adoptado el 23 de noviembre de 2001, en Budapest. Diario oficial 50664 DE JULIO 24 DE 2018, 24 de julio de 2018. COLECCIÓN DE LEGISLACIÓN COLOMBIANA. Legis Editores.',
+      link:
+        'https://xperta.legis.co/visor/legcol/legcol_bf13eeed23da4ca4bbc9653685bd73ea020nf9/coleccion-de-legislacion-colombiana/ley-1928-de-julio-24-de-2018',
+    },
+    {
+      referencia:
+        'Ley 527 de 1999. Validez jurídica y probatoria de la información electrónica. Recuperado de: ',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
+    },
+    {
+      referencia: 'Ley 594 de 2000. Ley General de Archivos. Recuperado de:',
+      link: 'https://normativa.archivogeneral.gov.co/ley-594-de-2000/',
+    },
+    {
+      referencia:
+        'Ley 679 de 2001. Prevenir y contrarrestar la explotación, la pornografía y el turismo sexual con menores. Recuperado de:',
+      link: 'http://www.oas.org/juridico/spanish/cyb_col_ley_679_2001.pdf',
+    },
+    {
+      referencia:
+        'Ley 962 de 2005.Simplificación y Racionalización de Trámites y procedimientos administrativos. Recuperado de: ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=17004#:~:text=%E2%80%9CPor%20la%20cual%20se%20dictan,p%C3%BAblicas%20o%20prestan%20servicios%20p%C3%BAblicos.%E2%80%9D',
+    },
+    {
+      referencia:
+        'MANUAL DE GOBIERNO DIGITAL, 2018. Gobierno Digital. Recuperado de: Decreto 1008 de 2018 (Compilado en el Decreto 1078 de 2015, capítulo 1, título 9, parte 2, libro 2)',
       link: '',
     },
     {
-      referencia: '',
+      referencia:
+        'Mcafee, 2022. Cómo abrir un puerto en McAfee Firewall. Recuperado de: ',
+      link:
+        'https://www.mcafee.com/support/?page=shell&shell=article-view&locale=es-ES&articleId=TS100887',
+    },
+    {
+      referencia:
+        'MDR, 2022. Virus detected warning alert message on computer screen, vector internet cyber security background. Hacking attack and virus detection spyware or digital antivirus malware for internet data fraud. Recuperado de: ',
+      link:
+        'https://www.mcafee.com/content/enterprise/fr-fr/security-awareness/endpoint/what-is-managed-detection-response.html',
+    },
+    {
+      referencia:
+        'MinTic, 2016. Ciclo de operación del Modelo de Seguridad y Privacidad de la Información. Recuperado de: Modelo de Seguridad y Privacidad de la Información',
       link: '',
     },
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Pentesting, 2022. Your pentesting arsenal, ready to go. Recuperado de:',
+      link: 'https://pentest-tools.com/',
     },
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'PKI, 2022. Integration with public key infrastructure. Recuperado de:',
+      link: 'https://support.kaspersky.com/ksc/sp3/en-US/89287.html',
     },
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Policía Nacional de Colombia, 2014. CIBERSEGURIDAD ENTORNO COLOMBIANO. Recuperado de:',
+      link: 'https://www.oas.org/juridico/spanish/cyber/cyb8_col.pdf',
     },
     {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
-    },
-    {
-      referencia: '',
-      link: '',
+      referencia:
+        'Proxy, 2022. ¿Qué es un servidor proxy y cómo funciona? Recuperado de:',
+      link: 'https://www.avast.com/es-es/c-topic-proxy',
     },
   ],
   creditos: {

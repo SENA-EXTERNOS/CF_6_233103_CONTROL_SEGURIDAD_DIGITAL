@@ -311,10 +311,10 @@
       .col-lg-9.position-relative
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center
-            .col-auto
+            .col-lg-auto.col-xs-12
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema1/img18.svg", alt="alt").img100
-            .col
+            .col.left-text
               h5.color-white Actividades
               
               .row
@@ -365,10 +365,10 @@
         
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center
-            .col-auto
+            .col-lg-auto.col-xs-12
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema1/img19.svg", alt="alt").img100
-            .col
+            .col.left-text
               h5.color-white Metas
 
               ul.lista-ul--color
@@ -382,10 +382,10 @@
 
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
-            .col-auto
+            .col-lg-auto.col-xs-12
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema1/img20.svg", alt="alt").img100
-            .col
+            .col.left-text
               h5.color-white Resultados
 
               ul.lista-ul--color
@@ -413,7 +413,6 @@
           p.mb-0 #[i Fase de mejoramiento continuo MSPI.]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img22.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 #[b Nota:] tomado como referencia de MinTic, 2016. Recuperado de: Modelo de Seguridad y Privacidad de la Información.
       .col-lg-2 
 
     

@@ -175,7 +175,7 @@ figcaption
     color: #ffffff
 
 .clr--gris 
-  background-color: #DADEEC
+  background-color: #99A1C2
   border-radius: 20px
 
 .acordion__titulo
@@ -238,6 +238,37 @@ figcaption
 .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__year 
     color: $color-acento-botones
     font-weight: 900
+
+.tarjeta--gris 
+    background-color: #F2F2F2
+
+///// Linea tiempo D --------------------------------------
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #F6F6F6
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #DADEEC
+
+.crd--avatarHorizontal::before 
+    background-color: #DADEEC
+
+.width-card-tema2
+    width: 80%   
+
+@media (max-width:500px)
+    .crd--avatarHorizontal::before 
+      width: calc( 100% - 0px)
+      margin-left: 10%
+
+
+.left-text
+    margin-left: 0%
+    
+@media (max-width:500px)
+  .left-text
+    margin-left: 10%
+
 
 
 
