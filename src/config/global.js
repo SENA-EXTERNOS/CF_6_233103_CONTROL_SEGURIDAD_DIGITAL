@@ -231,7 +231,7 @@ export default {
     {
       termino: 'Planificación',
       significado:
-        'Planificación	Etapa en la que se determinan los procesos que se deben implementar a nivel de SPI, mediante la estructura de gestión del riesgo en la operación de la red de datos.',
+        'Etapa en la que se determinan los procesos que se deben implementar a nivel de SPI, mediante la estructura de gestión del riesgo en la operación de la red de datos.',
     },
     {
       termino: 'Sistema de gestión sostenible',

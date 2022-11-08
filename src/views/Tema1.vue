@@ -262,7 +262,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Tabla 2
-          p(data-aos="fade-down").mb-0 #[i Fase de diagnóstico]
+          p(data-aos="fade-down").mb-0 #[i Migración Ipv4-Ipv6]
         .tabla-a.color-acento-contenido.mt-5
            table
             caption #[b Nota:] Esta tabla describe las metas, resultados e instrumentos de la migración de Ipv4 a Ipv6.
@@ -306,6 +306,9 @@
           img(src='@/assets/curso/temas/tema1/img17.png', alt='Texto que describa la imagen')  
           figcaption.mt-3 #[b Nota:] tomado de MinTic, 2016. Recuperado de: Modelo de Seguridad y Privacidad de la Información.
       .col-lg-2 
+
+    .row.mt-5
+      p Como se puede observar, la etapa de evaluación de desempeño contiene 3 fases a su vez actividades, metas y resultados que permite la consolidación de los indicadores.z
     
     .row.justify-content-center.mb-5.mt-5
       .col-lg-9.position-relative
@@ -326,7 +329,7 @@
 
                     li 
                       i.fas.fa-check
-                      p.color-white.mb-0 PlanificRevisar evaluación por nivel de riesgo.
+                      p.color-white.mb-0 Revisar evaluación por nivel de riesgo.
 
                     li 
                       i.fas.fa-check
@@ -369,16 +372,16 @@
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema1/img19.svg", alt="alt").img100
             .col.left-text
-              h5.color-white Metas
+              h5 Metas
 
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
-                  p.color-white.mb-0 Informe plan de revisión y seguimiento.
+                  p.color-nefg.mb-0 Informe plan de revisión y seguimiento.
 
                 li 
                   i.fas.fa-check
-                  p.color-white.mb-0 Informe de auditorías.
+                  p.mb-0 Informe de auditorías.
 
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
@@ -412,9 +415,11 @@
           h5 Figura 6
           p.mb-0 #[i Fase de mejoramiento continuo MSPI.]
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema1/img22.png', alt='Texto que describa la imagen')  
-      .col-lg-2 
+          img(src='@/assets/curso/temas/tema1/img22.png', alt='Texto que describa la imagen') 
+          figcaption.mt-3 #[b Nota:] tomado como referencia de MinTic, 2016. Recuperado de: Modelo de Seguridad y Privacidad de la Información.
 
+    .row.mt-5
+      p Como se puede observar, la etapa de mejoramiento continuo consta de 2 fases que son: Acciones correctivas y mejora continua; cada una de estas fases contiene metas, resultados e instrumentos.
     
     .row 
       .col-lg-1

@@ -8,8 +8,7 @@
       h1 Reportes de incidente de la ciberseguridad
 
     .cajonAmarillo.bgr-tarjeta-tema1.p-4
-        p(data-aos="fade-down") Lo invitamos a que visualice el video introductorio que se encuentra a continuación, donde podrá conocer de manera general todos los temas que serán desarrollados en este componente. #[b ¡Muchos éxitos!]
-
+        p(data-aos="fade-down") Los reportes de incidentes permiten identificar, evaluar, y responder a eventos del sistema de información. Éstos manejan un nivel de madurez que busca establecer criterios de valoración y determina el estado de la SI en las entidades. Existen 6 niveles de madurez y abarca desde la inexistencia hasta la optimización.
     .row
       .col-lg-6
         .row
@@ -209,7 +208,7 @@
 
             p Se realiza una serie de ciberataques para detectar la vulnerabilidad de la entidad.
 
-        .row(titulo="Auditoría web")
+        .row(titulo="Auditoría <em>web</em>")
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/img4.svg', alt='Texto que describa la imagen')
@@ -217,7 +216,7 @@
           .col-md-8.mb-4.mb-md-0
             p #[b Auditoría de la red]
 
-            p El objetivo es detectar la seguridad del servidor y la página web de la entidad.
+            p El objetivo es detectar la seguridad del servidor y la página #[i web] de la entidad.
 
            
         .row(titulo="Auditoría de la red")
@@ -467,7 +466,7 @@
               img(src='@/assets/curso/temas/tema2/img12.svg', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i Software antivirus]
-            p Estos programas permiten contar con medidas de protección efectivas cuando el equipo se encuentre expuestos a software malicioso o cualquier otro tipo de malware; Estos programas ofrecen la oportunidad de eliminarlo por completo o poner en estado de cuarentena.
+            p Estos programas permiten contar con medidas de protección efectivas cuando el equipo se encuentre expuestos a #[i software] malicioso o cualquier otro tipo de #[i malware]; Estos programas ofrecen la oportunidad de eliminarlo por completo o poner en estado de cuarentena.
 
             p Para conocer la herramienta y su manual de funcionamiento, se puede remitir a #[b https://latam.kaspersky.com/antivirus]
 
