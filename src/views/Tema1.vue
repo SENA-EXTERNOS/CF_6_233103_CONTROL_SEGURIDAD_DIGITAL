@@ -308,7 +308,7 @@
       .col-lg-2 
 
     .row.mt-5
-      p Como se puede observar, la etapa de evaluación de desempeño contiene 3 fases a su vez actividades, metas y resultados que permite la consolidación de los indicadores.z
+      p Como se puede observar, la etapa de evaluación de desempeño contiene 3 fases a su vez actividades, metas y resultados que permite la consolidación de los indicadores.
     
     .row.justify-content-center.mb-5.mt-5
       .col-lg-9.position-relative
