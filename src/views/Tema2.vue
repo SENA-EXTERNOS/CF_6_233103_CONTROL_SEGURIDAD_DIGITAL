@@ -463,68 +463,98 @@
         .row.justify-content-center
           .col-lg-5.order-2.order-lg-1
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/tema2/img12.svg', alt='').img400.m-auto
+              img(src='@/assets/curso/temas/tema2/1.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i Software antivirus]
             p Estos programas permiten contar con medidas de protección efectivas cuando el equipo se encuentre expuestos a #[i software] malicioso o cualquier otro tipo de #[i malware]; Estos programas ofrecen la oportunidad de eliminarlo por completo o poner en estado de cuarentena.
-
-            p Para conocer la herramienta y su manual de funcionamiento, se puede remitir a #[b https://latam.kaspersky.com/antivirus]
+            .row
+              .col-10
+                a.anexo.mb-4.mb-lg-0(href="https://latam.kaspersky.com/antivirus" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p #[i #[b Software antivirus]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
 
       .py-3.py-md-4(titulo="<i>Firewall</i>")
         .row.justify-content-center  
           .col-lg-5
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/tema2/img13.svg', alt='').img400.m-auto    
+              img(src='@/assets/curso/temas/tema2/2.png', alt='').img400.m-auto    
 
           .col-lg-7
             h4.txt--purpura #[i Firewall]
             p Sistema para prevenir y proteger la red privada de ataques de otras redes. Su funcionamiento es sencillo: escanea los paquetes de red, permitiéndoles o bloqueándolos según las reglas definidas por un administrador.
-
-            p Para conocer la herramienta y su manual de funcionamiento, se puede remitir a #[b https://www.mcafee.com/support/?page=shell&shell=article-view&locale=es-ES&articleId=TS100887] 
+            .row
+              .col-10
+                a.anexo.mb-4.mb-lg-0(href="https://www.mcafee.com/support/?page=shell&shell=article-view&locale=es-ES&articleId=TS100887" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p #[i #[b Firewall]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
 
       .py-3.py-md-4(titulo="<i>Proxy</i>")
         .row.justify-content-center
           .col-lg-5.order-2.order-lg-1
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/tema2/img14.svg', alt='').img400.m-auto
+              img(src='@/assets/curso/temas/tema2/3.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i Proxy]
             p Programa o dispositivo físico, que actúa de intermediario entre conexiones del navegador e internet, filtrando todos los paquetes entre ambos.
-
-            p Para conocer la herramienta y su manual de funcionamiento, se puede remitir a #[b https://www.avast.com/es-es/c-topic-proxy]
+            .row
+              .col-10
+                a.anexo.mb-4.mb-lg-0(href="https://www.avast.com/es-es/c-topic-proxy" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p #[i #[b Proxy]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
 
       .py-3.py-md-4(titulo="<i>PKI - Public Key Infrastructure</i>")
         .row.justify-content-center
           .col-lg-5.order-2.order-lg-1
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/tema2/img15.svg', alt='').img400.m-auto
+              img(src='@/assets/curso/temas/tema2/4.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i PKI - Public Key Infrastructure]
             p Herramienta que permite el intercambio de datos en forma segura a través de Internet, y a su vez, verifica la identidad de la otra parte.
-
-            p Para conocer la herramienta y su manual de funcionamiento, se puede remitir a #[b https://support.kaspersky.com/ksc/sp3/en-US/89287.html]
+            .row
+              .col-10
+                a.anexo.mb-4.mb-lg-0(href="https://support.kaspersky.com/ksc/sp3/en-US/89287.htm" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p #[i #[b PKI - Public Key Infrastructure]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
 
       .py-3.py-md-4(titulo="<i>MDR – Managed Detection and Response</i>")
         .row.justify-content-center
           .col-lg-5.order-2.order-lg-1
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/tema2/img15.svg', alt='').img400.m-auto
+              img(src='@/assets/curso/temas/tema2/5.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i MDR – Managed Detection and Response]
             p Es un servicio en seguridad avanzado, donde se proporciona la búsqueda de amenazas, y monitoreo inteligente de las mismas.
-
-            p Para conocer la herramienta y su manual de funcionamiento, se puede remitir a #[b https://www.mcafee.com/content/enterprise/fr-fr/security-awareness/endpoint/what-is-managed-detection-response.html]
+            .row
+              .col-10
+                a.anexo.mb-4.mb-lg-0(href="https://latam.kaspersky.com/antivirus" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p #[i #[b MDR – Managed Detection and Response]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
 
       .py-3.py-md-4(titulo="<i>Pentesting</i>")
         .row.justify-content-center
           .col-lg-5.order-2.order-lg-1
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/tema2/img15.svg', alt='').img400.m-auto
+              img(src='@/assets/curso/temas/tema2/6.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i Pentesting]
             p Son pruebas que realizan los expertos mediante técnicas avanzadas para detectar posibles amenazas o áreas con puntos débiles que los piratas informáticos pueden aprovechar.
-
-            p Para conocer la herramienta y su manual de funcionamiento, se puede remitir a #[b https://pentest-tools.com/]
+            .row
+              .col-10
+                a.anexo.mb-4.mb-lg-0(href="https://pentest-tools.com/" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p #[i #[b Pentesting]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
 
     separador
 
