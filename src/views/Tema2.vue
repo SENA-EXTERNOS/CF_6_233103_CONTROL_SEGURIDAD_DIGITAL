@@ -239,15 +239,15 @@
 
             p Realizar pruebas de código a las App que se usan en la entidad.
 
-        .row(titulo="Auditoría de código")
+        .row(titulo="Auditoría de código II")
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/img7.svg', alt='Texto que describa la imagen')
 
           .col-md-8.mb-4.mb-md-0
-            p #[b Auditoría de código]
+            p #[b Auditoría de código II]
 
-            p Realizar pruebas de conexión y navegabilidad de los dispositivos conectados a la red inalámbrica.
+            p Hacer pruebas de conexión y navegabilidad de los dispositivos conectados a la red inalámbrica.
 
     .row.mt-5
       p Sin importar el tamaño de la entidad, todas requieren de auditorías de ciberseguridad; Mantener operativa y segura la infraestructura tecnológica, genera confianza en los usuarios y elevan los niveles de calidad y productividad al interior de ésta. A continuación, de presentan las acciones que no pueden faltar en las auditorías de ciberseguridad:
