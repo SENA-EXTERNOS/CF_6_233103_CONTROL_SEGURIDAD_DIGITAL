@@ -516,13 +516,6 @@
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i PKI - Public Key Infrastructure]
             p Herramienta que permite el intercambio de datos en forma segura a través de Internet, y a su vez, verifica la identidad de la otra parte.
-            .row
-              .col-10
-                a.anexo.mb-4.mb-lg-0(href="https://support.kaspersky.com/ksc/sp3/en-US/89287.htm" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[i #[b PKI - Public Key Infrastructure]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
 
       .py-3.py-md-4(titulo="<i>MDR – Managed Detection and Response</i>")
         .row.justify-content-center
