@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Ciberseguridad y documentación de incidentes',
     descripcionCurso:
-      'Las empresas pueden verse expuestas a eventos e incidentes de seguridad que arriesgan los activos digitales, una forma de minimizar estos riesgos, es mediante buenas prácticas organizacionales, que conlleve a la creación de estándares y modelos de referencia que permitan documentar procesos dentro del sistema de gestión de seguridad de la información, realizar auditorías y trazabilidad de seguridad informática.',
+      'Las empresas pueden verse expuestas a eventos e incidentes de seguridad que pueden poner en riesgo sus activos digitales. Una forma de minimizar esos riesgos es implementar buenas prácticas organizacionales, que lleven a crear estándares y modelos de referencia orientados a documentar procesos dentro del sistema de gestión de seguridad de la información, realizar auditorías y lograr trazabilidad informática.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -109,12 +109,6 @@ export default {
             numero: '2.3',
             titulo: 'Herramientas de gestión y manual de funcionamiento',
             hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Documentación de los procesos',
-            hash: 't_2_4',
           },
         ],
       },

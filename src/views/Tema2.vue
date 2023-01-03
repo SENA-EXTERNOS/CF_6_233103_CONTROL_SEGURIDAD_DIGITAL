@@ -18,7 +18,7 @@
               p(data-aos="fade-down").mb-0 #[i Nivel de madurez]
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen')  
-              figcaption.mt-3 #[b Nota:] tomado de MinTic, (2016). Recuperado de: Modelo de Seguridad y Privacidad de la Información.
+              figcaption.mt-3 #[b Nota:] Tomada de MinTIC, 2016, p. 35. 
 
       .col-lg-6
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta clr--gris").mt-5
@@ -27,7 +27,7 @@
               ul.lista-ul--color
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 No se implementa control de infraestructura de TI, física, y recursos humanos.
+                 p.color-acordeon-blanco.mb-0 NNo se implementa control de infraestructura del SI, física, y de recursos humanos.
                 
                 li 
                  i.fas.fa-check
@@ -72,27 +72,27 @@
               ul.lista-ul--color
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Se realiza el diagnóstico permitiendo saber el estado en SI.
+                 p.color-acordeon-blanco.mb-0 Diagnóstico del estado del SI.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Se determinan objetivos, acciones, alcances de SI.
+                 p.color-acordeon-blanco.mb-0 Determinación de objetivos, acciones y alcances del SI.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Se establece políticas, procedimientos, roles y responsabilidades de SI y se divulgan en toda la entidad.
+                 p.color-acordeon-blanco.mb-0 Establecimiento de políticas, procedimientos, roles y responsabilidades del SI y divulgación en toda la entidad.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Se realiza inventario de activos de información.
+                 p.color-acordeon-blanco.mb-0 Inventario de activos de información.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Se implementa un plan de tratamiento de riesgo.
+                 p.color-acordeon-blanco.mb-0 Implementación de un plan de tratamiento de riesgo.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 La entidad hace la migración de Ipv4 a Ipv6 y documenta el plan de transición.
+                 p.color-acordeon-blanco.mb-0 Migración de Ipv4 a Ipv6y y documentación del plan de transición.
 
 
           .row(titulo="Administración ")
@@ -101,41 +101,40 @@
                 li 
                  i.fas.fa-check
                  p.color-acordeon-blanco.mb-0 Revisión y monitoreo periódico de activos de información.
-
                 li 
                  i.fas.fa-check
                  p.color-acordeon-blanco.mb-0 Uso de indicadores KPI para cumplimiento de políticas de SPI.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Evaluar efectividad de acciones que permita disminuir incidentes, evitando repeticiones a futuro.
+                 p.color-acordeon-blanco.mb-0 Evaluación de la efectividad de las acciones orientadas a disminuir incidentes, evitando repeticiones futuras.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Prueba constante de uso Ipv6.
+                 p.color-acordeon-blanco.mb-0 Prueba constante del uso del Ipv6.
 
           .row(titulo="Optimización")
             .col-12
               ul.lista-ul--color
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 La seguridad como valor agregado para cumplimento de metas en la entidad.
+                 p.color-acordeon-blanco.mb-0 La seguridad como valor agregado para el cumplimento de metas en la entidad.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 La información tiene un valor único y es inalterable.
+                 p.color-acordeon-blanco.mb-0 La información como un valor único e inalterable.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 La información cumple con los criterios de transparencia, claridad, oportunidad, integridad y disponibilidad.
+                 p.color-acordeon-blanco.mb-0 La información con criterios de transparencia, claridad, oportunidad, integridad y disponibilidad.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Uso de indicadores para mejora de compromisos misionales.
+                 p.color-acordeon-blanco.mb-0 Uso de indicadores para mejorar compromisos misionales.
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Se genera tráfico Ipv6.
+                 p.color-acordeon-blanco.mb-0 Tráfico Ipv6.
                
     separador
 
@@ -250,7 +249,7 @@
             p Hacer pruebas de conexión y navegabilidad de los dispositivos conectados a la red inalámbrica.
 
     .row.mt-5
-      p Sin importar el tamaño de la entidad, todas requieren de auditorías de ciberseguridad; Mantener operativa y segura la infraestructura tecnológica, genera confianza en los usuarios y elevan los niveles de calidad y productividad al interior de ésta. A continuación, de presentan las acciones que no pueden faltar en las auditorías de ciberseguridad:
+      p Todas las entidades, sin importar su tamaño, requieren de auditorías de ciberseguridad. Mantener operativa y segura la infraestructura tecnológica produce confianza en los usuarios y elevan los niveles de calidad y productividad dentro de esta. A continuación, se presentan las acciones que no pueden faltar en las auditorías de ciberseguridad.
 
 
     .row.mt-5
@@ -548,21 +547,18 @@
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[i #[b Pentesting]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
-
-    separador
-
-    #t_2_4
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.4 Documentación de los procesos
+    h4 Documentación de los procesos
 
     .row.justify-content-center.align-items-center.mb-5.mt-5          
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)            
-               
 
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10
+        .cajonAmarillo.bgr-tarjeta-tema1.p-4
+            p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 
 </template>

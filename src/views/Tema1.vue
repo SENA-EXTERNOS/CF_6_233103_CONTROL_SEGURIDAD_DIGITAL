@@ -16,37 +16,37 @@
         ul.lista-ul--color
           li 
             i.fas.fa-check
-            | Diagnóstico
+            | Diagnóstico.
 
           li 
             i.fas.fa-check
-            | Planificación
+            | Planificación.
 
           li 
             i.fas.fa-check
-            | Implementación
+            | Implementación.
 
           li 
             i.fas.fa-check
-            | Evaluación de desempeño
+            | Evaluación de desempeño.
 
           li 
             i.fas.fa-check
-            | Mejora continua
+            | Mejora continua.
 
       .col-lg-5
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Texto que describa la imagen')  
-
-    .row.mt-5
+    p.mb-5 En la siguiente figura, se puede observar el ciclo de operación y las fases.  
+    .row
       .col-lg-2
-      .col-lg-8.mt-5
+      .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           p(data-aos="fade-down").mb-0 #[i Ciclo de operación del Modelo de Seguridad y Privacidad de la Información]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 #[b Nota:] tomada y adaptada de Ministerio de las TIC (2016). Modelo de Seguridad y Privacidad de la Información.
+          figcaption.mt-3 #[b Nota.] Tomada de MinTIC, 2016, p. 20.
       .col-lg-2
 
     .row.justify-content-around.align-items-center.mt-5
@@ -79,7 +79,7 @@
           p(data-aos="fade-down").mb-0 #[i Fase de diagnóstico MSPI.]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 #[b Nota:] tomada y adaptada de Ministerio TIC (2016). Modelo de Seguridad y Privacidad de la Información.
+          figcaption.mt-3 #[b Nota.] Tomada de MinTIC, 2016, p. 21. 
 
     
     .row 
@@ -90,7 +90,7 @@
           p(data-aos="fade-down").mb-0 #[i Fase de diagnóstico]
         .tabla-a.color-acento-contenido.mt-5
            table
-            caption #[b Nota:] Esta tabla describe las metas, resultados e instrumentos de la fase de diagnóstico del MSPI. Tomada y adaptada de Ministerio TIC (2016). Modelo de Seguridad y Privacidad de la Información.
+            caption #[b Nota.] Tomada y adaptada de MinTIC, 2016, p. 22.
             thead
               tr
                th Metas
@@ -180,7 +180,7 @@
           p(data-aos="fade-down").mb-0 #[i Fase de planificación MSPI]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 #[b Nota:] tomada cómo referencia del Ministerio TIC,(2016). Recuperado de: Modelo de Seguridad y Privacidad de la Información.
+          figcaption.mt-3 #[b Nota.] Tomada de MinTIC.
       .col-lg-2 
 
     .row.justify-content-around.align-items-center.mt-5
@@ -227,7 +227,7 @@
           p(data-aos="fade-down").mb-0 #[i Fase de implementación MSPI]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img13.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 #[b Nota:] tomado de MinTic, 2016. Recuperado de: Modelo de Seguridad y Privacidad de la Información.
+          figcaption.mt-3 #[b Nota.] Tomada de MinTIC.
       .col-lg-2 
 
     .row.justify-content-around.align-items-center.mt-5
@@ -247,7 +247,7 @@
               
           .row(numero="3" titulo="Definición de indicadores de gestión:")
             .col-md-12.mb-4.mb-md-0
-              p(data-aos="fade-down").text-small La definición de indicadores permiten la medición de eficiencia y efectividad en las acciones implementadas en SPI. Los indicadores permiten medir eficiencia, efectividad, y mejora continua.     
+              p(data-aos="fade-down").text-small Los indicadores sirven para medir la eficiencia y efectividad en las acciones implementadas en SPI y lograr una mejora continua.   
       .col-lg-1
 
     .row.mt-5
@@ -256,7 +256,7 @@
           img(src='@/assets/curso/temas/tema1/img15.svg', alt='Texto que describa la imagen') 
       .col-lg-11
         p(data-aos="fade-down") Por otro lado, es importante definir las actividades a realizar para la migración de los protocolos IPv4 a IPv6, cabe recordar que las Ipv son las conexiones de internet, siendo la IPv4 más antigua y vulnerable, a partir del 2020 se migró a la IPv6. En esta fase se realizan actividades de direccionamiento, diseño, montaje, ejecución y corrección de pruebas, activación de políticas de SPI, validación de funcionalidad, a continuación, se describen metas, entregables e instrumentos para la migración de Ipv4 a Ipv6.
-
+        p(data-aos="fade-down") La siguiente tabla describe la meta, el resultado y el instrumento para la migración de Ipv4 a Ipv6. 
     .row 
       .col-lg-1
       .col-lg-10
@@ -265,7 +265,7 @@
           p(data-aos="fade-down").mb-0 #[i Migración Ipv4-Ipv6]
         .tabla-a.color-acento-contenido.mt-5
            table
-            caption #[b Nota:] Esta tabla describe las metas, resultados e instrumentos de la migración de Ipv4 a Ipv6.
+            caption #[b Nota.] Tomada de MinTIC, 2016, p. 30.
             thead
               tr
                 th Metas
@@ -304,7 +304,7 @@
           p(data-aos="fade-down").mb-0 #[i Fase de evaluación de desempeño MSPI]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img17.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 #[b Nota:] tomado de MinTic, 2016. Recuperado de: Modelo de Seguridad y Privacidad de la Información.
+          figcaption.mt-3 #[b Nota.] Tomada de MinTic, 2016, p. 31. 
       .col-lg-2 
 
     .row.mt-5
@@ -402,7 +402,7 @@
 
     .row.justify-content-around.align-items-center.mt-5.background-full
       .col-lg-8
-        p Para finalizar con las etapas, se procede con la de mejora continua que consolida los resultados de la fase de evaluación de desempeño, en búsqueda del plan de mejoramiento continuo de SPI, ejecutando acciones previas que mitiguen los efectos de los incidentes que se presenten.
+        p Para finalizar con las etapas, se procede con la de mejora continua, que consolida los resultados de la fase de evaluación de desempeño, en busca del plan de mejoramiento continuo de SPI. Para ello se ejecutan acciones previas dirigidas a mitigar los efectos de los incidentes que se presenten.
       .col-lg-4
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img21.svg', alt='Texto que describa la imagen').imagen-full2-tema-1
@@ -416,11 +416,11 @@
           p.mb-0 #[i Fase de mejoramiento continuo MSPI.]
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img22.png', alt='Texto que describa la imagen') 
-          figcaption.mt-3 #[b Nota:] tomado como referencia de MinTic, 2016. Recuperado de: Modelo de Seguridad y Privacidad de la Información.
+          figcaption.mt-3 #[b Nota.] Tomada de MinTIC, 2016, p. 33. 
 
     .row.mt-5
       p Como se puede observar, la etapa de mejoramiento continuo consta de 2 fases que son: Acciones correctivas y mejora continua; cada una de estas fases contiene metas, resultados e instrumentos.
-    
+      p La tabla 3 describe las metas, resultados e instrumentos de la fase de mejoramiento continuo.     
     .row 
       .col-lg-1
       .col-lg-10
@@ -429,7 +429,7 @@
           p.mb-0 #[i Mejoramiento continuo]
         .tabla-a.color-acento-contenido.mt-5
            table
-            caption #[b Nota:] Esta tabla describe las metas, resultados e instrumentos de la fase de mejoramiento continuo. tomado como referencia de MinTic, 2016. Recuperado de: Modelo de Seguridad y Privacidad de la Información.
+            caption #[b Nota.] Tomada de MinTIC, 2016, p. 34.
             thead
               tr
                 th Metas

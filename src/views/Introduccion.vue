@@ -14,12 +14,8 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/introduccion/img1.svg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p Estimado Aprendiz, bienvenido a este componente formativo que presenta los requerimientos asociados a la documentación de incidentes en la ciberseguridad, necesaria para registrar las operaciones de redes de datos y obtener la información para generar informes y reportes de operación en relación con las herramientas de protección y minimizar riesgos a los que puede verse expuesta la información.
-
-        p Con diferentes contenidos audiovisuales puede apropiarse de la valiosa información que está aquí dispuesta, como parte del proceso de aprendizaje que adelanta y para continuar con los demás temas de estudio venideros. 
-
-        p #[b Le invitamos a explorar el contenido y estudie a detalle todos los temas y al final realice la actividad de repaso.] 
-    
+        p Apreciado aprendiz, bienvenido a este componente formativo, donde encontrará los requerimientos asociados a la documentación de incidentes en ciberseguridad. Esta es necesaria para registrar operaciones de redes de datos; obtener la información destinada a elaborar informes y reportes relacionados con las herramientas de protección, y minimizar riesgos a los que puede verse expuesta la información.
+    p.mt-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo. 
     .row.justify-content-center.align-items-center.mb-5.mt-5          
       .col-lg-12(data-aos="fade-left")     
         figure
