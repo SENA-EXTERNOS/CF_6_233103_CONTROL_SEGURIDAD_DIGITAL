@@ -155,27 +155,25 @@ export default {
   },
   complementario: [
     {
-      tema: 'Glosario ISO 27000',
+      tema: 'Documentación de incidentes en la ciberseguridad',
       referencia:
-        'International Organization for Standardization. Glosario ISO 27000. 2009. Web.',
+        'International Organization for Standardization. (2009).<i> Glosario ISO 27000.</i>',
       tipo: 'Libro',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_virtualprovpro4391',
     },
     {
-      tema:
-        'Metodología para la implementación de un Sistema de Gestión de Seguridad de la Información basado en la familia de normas ISO/IEC 27000',
+      tema: 'Documentación de incidentes en la ciberseguridad',
       referencia:
-        'Javier Valencia-Duque, Francisco, and Mauricio Orozco-Alzate. "Metodología Para La Implementación De Un Sistema De Gestión De Seguridad De La Información Basado En La Familia De Normas ISO/IEC 27000." RISTI : Revista Ibérica De Sistemas E Tecnologias De Informação 22 (2017): 73-88. Web.',
+        'Valencia-Duque, F. y Orozco-Alzate, M. (2017). Metodología para la implementación de un sistema de gestión de seguridad de la información basado en la familia de normas ISO/IEC 27000. <i>RISTI: Revista Ibérica de Sistemas e Tecnologias de Informação </i>(22), p. 73-88.',
       tipo: 'Artículo',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_scielo_journals_S1646_98952017000200006',
     },
     {
-      tema:
-        'Seguridad en informática : seguridad, auditoría, cortafuegos, ingeniería social, ISO 27000',
+      tema: 'Documentación de incidentes en la ciberseguridad',
       referencia:
-        'Catellanos H, Luis R. Seguridad En Informática : Seguridad, Auditoría, Cortafuegos, Ingeniería Social, ISO 27000. Saarbrücken, Alemania: Editorial Académica Española, 2012. Print.',
+        'Castellanos, L. (2012). <i>Seguridad en informática: seguridad, auditoría, cortafuegos, ingeniería social, ISO 27000</i>. Editorial Académica Española.',
       tipo: 'Libro',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000083567',
@@ -241,15 +239,81 @@ export default {
   referencias: [
     {
       referencia:
-        'Asobancaria, 2020. Guía de buenas prácticas para auditar la ciberseguridad. Recuperado de:',
+        'Asobancaria (2020). <i>Guía de buenas prácticas para auditar la ciberseguridad</i>. Asobancaria.',
       link:
         'https://www.asobancaria.com/wp-content/uploads/2020/09/Gui%CC%81a-de-Buenas-Pra%CC%81cticas-para-Auditar-la-CiberseguridadV4_compressed.pdf',
+    },
+    {
+      referencia:
+        'Avast Academy (2022). <i>¿Qué es un servidor proxy y cómo funciona?</i> ',
+      link: 'https://www.avast.com/es-es/c-topic-proxy',
+    },
+    {
+      referencia:
+        'Colombia, Departamento Nacional de Planeación [DNP]-Consejo Nacional de Política Económica y Social [CONPES]. (2011). <i>Documento CONPES 3701. Lineamientos de política para la ciberseguridad y ciberdefensa</i>. DNP-CONPES.',
+      link:
+        'https://tic.bogota.gov.co/sites/default/files/marco-legal/CONPES%203701%20DE%202011.pdf',
+    },
+    {
+      referencia:
+        'Colombia, Ministerio de Tecnologías de la Información y las Comunicaciones [MinTIC]. (2016). <i>Modelo de Seguridad y Privacidad de la Información</i>. MinTIC:',
+      link:
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_Modelo_de_Seguridad_Privacidad.pdf',
+    },
+    {
+      referencia:
+        'Colombia, Ministerio de Tecnologías de la Información y las Comunicaciones [MinTIC] (2018). <i>Manual de gobierno digital. Implementación de la Política de Gobierno Digital</i>. MinTIC.',
+      link:
+        'https://gobiernodigital.mintic.gov.co/692/channels-594_manual_gd.pdf',
     },
     {
       referencia:
         'CONPES, 2011. Lineamientos de política para la Ciberseguridad y Ciberdefensa. Recuperado de: ',
       link:
         'https://tic.bogota.gov.co/sites/default/files/marco-legal/CONPES%203701%20DE%202011.pdf',
+    },
+    {
+      referencia:
+        'Congreso de Colombia (2018, 24 de julio). Ley 1928 de 2018, “por medio de la cual se aprueba el ‘Convenio sobre la Ciberdelincuencia’, adoptado el 23 de noviembre de 2001, en Budapest. D. O. 50664 Legis Editores.',
+      link:
+        'https://xperta.legis.co/visor/legcol/legcol_bf13eeed23da4ca4bbc9653685bd73ea020nf9/coleccion-de-legislacion-colombiana/ley-1928-de-julio-24-de-2018',
+    },
+    {
+      referencia:
+        'EALDE Business School. (2021). <i>Consejos para hacer una auditoría de seguridad informática para evitar riesgos digitales.</i>',
+      link: 'https://www.ealde.es/auditoria-de-seguridad-informatica/',
+    },
+    {
+      referencia:
+        'Kaspersky (2022).<i> Protección esencial contra virus para la PC</i>.',
+      link: 'https://latam.kaspersky.com/antivirus',
+    },
+    {
+      referencia:
+        'Mcafee .(2022). <i>Cómo abrir un puerto en McAfee Firewall.</i>',
+      link:
+        'https://www.mcafee.com/support/?page=shell&shell=article-view&locale=es-ES&articleId=TS100887',
+    },
+    {
+      referencia:
+        'MDR. (2022). <i>Virus detected warning alert message on computer screen, vector internet cyber security background. Hacking attack and virus detection spyware or digital antivirus malware for internet data fraud</i>.',
+      link:
+        'https://www.mcafee.com/content/enterprise/fr-fr/security-awareness/endpoint/what-is-managed-detection-response.html',
+    },
+    {
+      referencia:
+        'Pentest Tools. (2022).<i> Your pentesting arsenal, ready to go</i>.',
+      link: 'https://pentest-tools.com/',
+    },
+    {
+      referencia:
+        'PKI. (2022).<i> Integration with public key infrastructure.</i>',
+      link: 'https://support.kaspersky.com/ksc/sp3/en-US/89287.html',
+    },
+    {
+      referencia:
+        'Policía Nacional de Colombia. (2014).<i> Ciberseguridad. Entorno colombiano.</i>',
+      link: 'https://www.oas.org/juridico/spanish/cyber/cyb8_col.pdf',
     },
     {
       referencia:
