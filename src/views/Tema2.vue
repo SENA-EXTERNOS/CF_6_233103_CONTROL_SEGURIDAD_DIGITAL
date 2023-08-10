@@ -27,7 +27,7 @@
               ul.lista-ul--color
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 NNo se implementa control de infraestructura del SI, física, y de recursos humanos.
+                 p.color-acordeon-blanco.mb-0 No se implementa control de infraestructura del SI, física, y de recursos humanos.
                 
                 li 
                  i.fas.fa-check
@@ -311,7 +311,7 @@
               .col-md-12.mb-4.mb-md-0
                 p #[b Ley 962 de 2005]
 
-                p Simplificación y Racionalización de Trámites y procedimientos administrativos. Esta ley permite facilitar las relaciones de los particulares con la Administración Pública.
+                p Simplificación y racionalización de trámites y procedimientos administrativos. Esta ley permite facilitar las relaciones de los particulares con la Administración Pública.
 
             .row(titulo="Ley 1150 de 2007")
               .col-md-12.mb-4.mb-md-0
@@ -548,8 +548,8 @@
                   .anexo__texto
                     p #[i #[b Pentesting]]. Para conocer la herramienta y su manual de funcionamiento, se puede remitir a este enlace.
     h4 Documentación de los procesos
-
-    .row.justify-content-center.align-items-center.mb-5.mt-5          
+    p Para conocer las características de la documentación que deben soportar los procesos, ver el video a continuación.
+    .row.justify-content-center.align-items-center.mb-5    
       .col-lg-12(data-aos="fade-left")     
         figure
           .video

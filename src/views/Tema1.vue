@@ -239,15 +239,15 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Control y planeación operacional:")
             .col-md-12.mb-4.mb-md-0
-              p(data-aos="fade-down").text-small La entidad planifica, implementa y controla todos los procesos indispensables que permitan cumplir con todas las condiciones necesarias de SPI. Es indispensable, que toda esta información sea documentada para llevar un control de acciones en búsqueda de la mitigación de riesgos que puedan presentarse.
+              p La entidad planifica, implementa y controla todos los procesos indispensables que permitan cumplir con todas las condiciones necesarias de SPI. Es indispensable, que toda esta información sea documentada para llevar un control de acciones en búsqueda de la mitigación de riesgos que puedan presentarse.
 
           .row(numero="2" titulo="Plan de tratamiento de riesgos de SPI:")
             .col-md-12.mb-4.mb-md-0
-              p(data-aos="fade-down").text-small Es indispensable la implementación del plan de tratamiento de riesgos, en donde se debe identificar los controles aplicar para que éstos lleguen a un nivel aceptable.
+              p Es indispensable la implementación del plan de tratamiento de riesgos, en donde se debe identificar los controles aplicar para que éstos lleguen a un nivel aceptable.
               
           .row(numero="3" titulo="Definición de indicadores de gestión:")
             .col-md-12.mb-4.mb-md-0
-              p(data-aos="fade-down").text-small Los indicadores sirven para medir la eficiencia y efectividad en las acciones implementadas en SPI y lograr una mejora continua.   
+              p Los indicadores sirven para medir la eficiencia y efectividad en las acciones implementadas en SPI y lograr una mejora continua.   
       .col-lg-1
 
     .row.mt-5
@@ -295,8 +295,9 @@
           p(data-aos="fade-down") Existen herramientas de protección que permiten la operación continua de la entidad, es indispensable documentar cada etapa del proceso y generar informes, este aspecto hace parte del MSPI en las etapas de evaluación de desempeño y mejora continua.
 
           p(data-aos="fade-down") En la etapa de evaluación de desempeño se realiza el seguimiento al MSPI, de acuerdo a los resultados obtenidos en la etapa de implementación. Este proceso permite verificar la eficiencia de todas las acciones que se implementan.
-
     .row.mt-5
+      p La figura 5 muestra la fase de evaluación de desempeño MSPI.
+
       .col-lg-2
       .col-lg-8.mt-5
         .titulo-sexto.color-acento-contenido

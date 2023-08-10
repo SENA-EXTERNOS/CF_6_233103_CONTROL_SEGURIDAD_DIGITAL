@@ -268,15 +268,9 @@ export default {
     },
     {
       referencia:
-        'CONPES, 2011. Lineamientos de política para la Ciberseguridad y Ciberdefensa. Recuperado de: ',
+        'Congreso de Colombia (2018, 24 de julio). Ley 1928 de 2018, “por medio de la cual se aprueba el ‘Convenio sobre la Ciberdelincuencia’, adoptado el 23 de noviembre de 2001, en Budapest. D. O. 50664 Legis.',
       link:
-        'https://tic.bogota.gov.co/sites/default/files/marco-legal/CONPES%203701%20DE%202011.pdf',
-    },
-    {
-      referencia:
-        'Congreso de Colombia (2018, 24 de julio). Ley 1928 de 2018, “por medio de la cual se aprueba el ‘Convenio sobre la Ciberdelincuencia’, adoptado el 23 de noviembre de 2001, en Budapest. D. O. 50664 Legis Editores.',
-      link:
-        'https://xperta.legis.co/visor/legcol/legcol_bf13eeed23da4ca4bbc9653685bd73ea020nf9/coleccion-de-legislacion-colombiana/ley-1928-de-julio-24-de-2018',
+        'http://www.lexbase.co/lexdocs/indice/2018/l1928de2018#:~:text=%22%20LEY%201928%20DE%202018%20(julio,noviembre%20de%202001%2C%20en%20Budapest.',
     },
     {
       referencia:
@@ -351,16 +345,6 @@ export default {
     },
     {
       referencia:
-        'EALDE Business School, 2021. Consejos para hacer una auditoría de seguridad informática para evitar riesgos digitales. Recuperado de:',
-      link: 'https://www.ealde.es/auditoria-de-seguridad-informatica/',
-    },
-    {
-      referencia:
-        'Kaspersky, 2022. Protección esencial contra virus para la PC. Recuperado de:',
-      link: 'https://latam.kaspersky.com/antivirus',
-    },
-    {
-      referencia:
         'Ley 1150 de 2007. Seguridad de la información en contratación pública. Recuperado de:',
       link: 'http://www.oas.org/juridico/spanish/mesicic3_col_ley1150.pdf',
     },
@@ -377,8 +361,9 @@ export default {
     },
     {
       referencia:
-        'Ley 1341 de 2009. Principios y conceptos sobre la sociedad de la información y la organización de las TIC. Recuperado de: ',
-      link: 'funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36913',
+        'Ley 1341 de 2009. Principios y conceptos sobre la sociedad de la información y la organización de las TIC.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36913',
     },
     {
       referencia: 'Decreto 1377 de 2013. Protección de datos. Recuperado de: ',
@@ -434,48 +419,6 @@ export default {
         'Ley 962 de 2005.Simplificación y Racionalización de Trámites y procedimientos administrativos. Recuperado de: ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=17004#:~:text=%E2%80%9CPor%20la%20cual%20se%20dictan,p%C3%BAblicas%20o%20prestan%20servicios%20p%C3%BAblicos.%E2%80%9D',
-    },
-    {
-      referencia:
-        'MANUAL DE GOBIERNO DIGITAL, 2018. Gobierno Digital. Recuperado de: Decreto 1008 de 2018 (Compilado en el Decreto 1078 de 2015, capítulo 1, título 9, parte 2, libro 2)',
-      link: '',
-    },
-    {
-      referencia:
-        'Mcafee, 2022. Cómo abrir un puerto en McAfee Firewall. Recuperado de: ',
-      link:
-        'https://www.mcafee.com/support/?page=shell&shell=article-view&locale=es-ES&articleId=TS100887',
-    },
-    {
-      referencia:
-        'MDR, 2022. Virus detected warning alert message on computer screen, vector internet cyber security background. Hacking attack and virus detection spyware or digital antivirus malware for internet data fraud. Recuperado de: ',
-      link:
-        'https://www.mcafee.com/content/enterprise/fr-fr/security-awareness/endpoint/what-is-managed-detection-response.html',
-    },
-    {
-      referencia:
-        'MinTic, 2016. Ciclo de operación del Modelo de Seguridad y Privacidad de la Información. Recuperado de: Modelo de Seguridad y Privacidad de la Información',
-      link: '',
-    },
-    {
-      referencia:
-        'Pentesting, 2022. Your pentesting arsenal, ready to go. Recuperado de:',
-      link: 'https://pentest-tools.com/',
-    },
-    {
-      referencia:
-        'PKI, 2022. Integration with public key infrastructure. Recuperado de:',
-      link: 'https://support.kaspersky.com/ksc/sp3/en-US/89287.html',
-    },
-    {
-      referencia:
-        'Policía Nacional de Colombia, 2014. CIBERSEGURIDAD ENTORNO COLOMBIANO. Recuperado de:',
-      link: 'https://www.oas.org/juridico/spanish/cyber/cyb8_col.pdf',
-    },
-    {
-      referencia:
-        'Proxy, 2022. ¿Qué es un servidor proxy y cómo funciona? Recuperado de:',
-      link: 'https://www.avast.com/es-es/c-topic-proxy',
     },
   ],
   creditos: {
