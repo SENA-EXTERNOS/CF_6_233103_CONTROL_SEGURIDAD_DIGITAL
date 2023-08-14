@@ -292,7 +292,7 @@ export default {
       referencia:
         'MDR. (2022). <i>Virus detected warning alert message on computer screen, vector internet cyber security background. Hacking attack and virus detection spyware or digital antivirus malware for internet data fraud</i>.',
       link:
-        'https://www.mcafee.com/content/enterprise/fr-fr/security-awareness/endpoint/what-is-managed-detection-response.html',
+        'https://stock.adobe.com/es/images/virus-detected-warning-alert-message-on-computer-screen-vector-internet-cyber-security-background-hacking-attack-and-virus-detection-spyware-or-digital-antivirus-malware-for-internet-data-fraud/459612836',
     },
     {
       referencia:
