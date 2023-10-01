@@ -65,7 +65,7 @@
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 La entidad hace la migración de Ipv4 a Ipv6 y cuenta con una planeación.
+                 p.color-acordeon-blanco.mb-0 La entidad hace la migración de IPv4 a IPv6 y cuenta con una planeación.
 
           .row(titulo="Definición")
             .col-12
@@ -92,7 +92,7 @@
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Migración de Ipv4 a Ipv6y y documentación del plan de transición.
+                 p.color-acordeon-blanco.mb-0 Migración de IPv4 a IPv6 y documentación del plan de transición.
 
 
           .row(titulo="Administración ")
@@ -111,7 +111,7 @@
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Prueba constante del uso del Ipv6.
+                 p.color-acordeon-blanco.mb-0 Prueba constante del uso del IPv6.
 
           .row(titulo="Optimización")
             .col-12
@@ -134,14 +134,14 @@
 
                 li 
                  i.fas.fa-check
-                 p.color-acordeon-blanco.mb-0 Tráfico Ipv6.
+                 p.color-acordeon-blanco.mb-0 Tráfico IPv6.
                
     separador
 
     #t_2_1
 
     .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.1 Auditorias
+      h2 2.1 Auditorías
 
     .row.justify-content-around.align-items-center
       .col-lg-5
@@ -213,7 +213,7 @@
               img(src='@/assets/curso/temas/tema2/img4.svg', alt='Texto que describa la imagen')
 
           .col-md-8.mb-4.mb-md-0
-            p #[b Auditoría de la red]
+            p #[b Auditoría #[em web]]
 
             p El objetivo es detectar la seguridad del servidor y la página #[i web] de la entidad.
 
@@ -277,7 +277,7 @@
       h2 2.2 Marco Jurídico y Marco Legal
 
     .row
-      p En la actualidad, existen diversos instrumentos Normativos de Ciberseguridad, con los cuales, el gobierno busca regular y controlar los ciberataques y los ciberdelincuentes; Entre los decretos, leyes y artículos se destacan:
+      p En la actualidad, existen diversos instrumentos Normativos de Ciberseguridad, con los cuales, el gobierno busca regular y controlar los ciberataques y los ciberdelincuentes; entre los decretos, leyes y artículos se destacan:
 
     .row.justify-content-around.align-items-center
       .col-lg-9
@@ -378,7 +378,7 @@
               .col-md-12.mb-4.mb-md-0
                 p #[b Decreto 2609 de 2012]
 
-                p Expediente electrónico. Fortalecer de los archivos públicos del país, para garantizar la eficacia de la gestión del Estado y la conservación del patrimonio documental.
+                p Expediente electrónico. Fortalecer los archivos públicos del país, para garantizar la eficacia de la gestión del Estado y la conservación del patrimonio documental.
 
             .row(titulo="Decreto 2693 de 2012")
               .col-md-12.mb-4.mb-md-0
@@ -465,7 +465,7 @@
               img(src='@/assets/curso/temas/tema2/1.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura #[i Software antivirus]
-            p Estos programas permiten contar con medidas de protección efectivas cuando el equipo se encuentre expuestos a #[i software] malicioso o cualquier otro tipo de #[i malware]; Estos programas ofrecen la oportunidad de eliminarlo por completo o poner en estado de cuarentena.
+            p Estos programas permiten contar con medidas de protección efectivas cuando el equipo se encuentre expuestos a #[i software] malicioso o cualquier otro tipo de #[i malware]; estos programas ofrecen la oportunidad de eliminarlo por completo o poner en estado de cuarentena.
             .row
               .col-10
                 a.anexo.mb-4.mb-lg-0(href="https://latam.kaspersky.com/antivirus" target="_blank")

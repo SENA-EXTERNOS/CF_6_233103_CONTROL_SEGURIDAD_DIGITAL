@@ -67,9 +67,9 @@
       h2 1.1 Informes de operación de red de datos
 
     .row
-      p(data-aos="fade-down") De acuerdo a las etapas del MSPI en su fase de diagnóstico se identifica la operatividad de la red de datos según procedimientos técnicos y marcos de referencia; Es así que se describe el estado de la entidad, el nivel de madurez y el levantamiento de información, teniendo en cuenta los requerimientos, metas y resultados.
+      p(data-aos="fade-down") De acuerdo a las etapas del MSPI en su fase de diagnóstico se identifica la operatividad de la red de datos según procedimientos técnicos y marcos de referencia; es así que se describe el estado de la entidad, el nivel de madurez y el levantamiento de información, teniendo en cuenta los requerimientos, metas y resultados.
 
-      p(data-aos="fade-down") En esta etapa, al generar los informes de operación de la red de datos, se debe describir las metas, los resultados e instrumentos utilizados, tal como se describe en la siguiente en la figura 2 y la tabla 1:
+      p(data-aos="fade-down") En esta etapa, al generar los informes de operación de la red de datos, se debe describir las metas, los resultados e instrumentos utilizados, tal como se describe en la figura 2 y la tabla 1:
 
     .row.mt-5
       .col-lg-2
@@ -95,7 +95,7 @@
               tr
                th Metas
                 th Resultado
-                th INSTRUMENTOS MSPI
+                th Instrumentos MSPI
             tbody
               tr
                 td Establecer el estado actual de la entidad en la gestión de seguridad y privacidad de la información – SPI
@@ -103,7 +103,7 @@
                 td Herramienta de diagnóstico
 
               tr
-                td Identificar el nivel de madurez de SPI en la Entidad
+                td Identificar el nivel de madurez de SPI en la entidad
                 td Herramienta diligenciada y nivel de madurez identificado
                 td Herramienta de diagnóstico
 
@@ -165,7 +165,7 @@
       .col-lg-8
         p(data-aos="fade-down") En la #[b fase de planificación], se utilizan como insumos los resultados de la etapa de diagnóstico para elaborar los informes con el método de SPI, con el objetivo de determinar los procesos que se deben implementar a nivel de SPI, mediante la estructura de gestión del riesgo en la operación de la red de datos.
 
-        p(data-aos="fade-down") La Entidad es la encargada de limitar los procesos a ejecutar para la implementación de SPI. Estos procesos deben ser universales y abarcar todos los departamentos de la entidad; Es preciso que el alcance y limitantes impacten el cumplimiento de los objetivos, protegiendo la calidad de la información y los servicios, sobre todo la documentación de acuerdo a los informes de la operatividad en la red de datos.
+        p(data-aos="fade-down") La Entidad es la encargada de limitar los procesos a ejecutar para la implementación de SPI. Estos procesos deben ser universales y abarcar todos los departamentos de la entidad; es preciso que el alcance y limitantes impacten el cumplimiento de los objetivos, protegiendo la calidad de la información y los servicios, sobre todo la documentación de acuerdo a los informes de la operatividad en la red de datos.
 
     .row.mt-5
       p(data-aos="fade-down") A continuación, se detalla el proceso de la etapa de planificación y las partes que debe contener un informe de gestión, junto con sus metas, resultados e instrumentos para el MSPI en una entidad.
@@ -243,7 +243,7 @@
 
           .row(numero="2" titulo="Plan de tratamiento de riesgos de SPI:")
             .col-md-12.mb-4.mb-md-0
-              p Es indispensable la implementación del plan de tratamiento de riesgos, en donde se debe identificar los controles aplicar para que éstos lleguen a un nivel aceptable.
+              p Es indispensable la implementación del plan de tratamiento de riesgos, en donde se debe identificar los controles a aplicar para que éstos lleguen a un nivel aceptable.
               
           .row(numero="3" titulo="Definición de indicadores de gestión:")
             .col-md-12.mb-4.mb-md-0
@@ -255,14 +255,14 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img15.svg', alt='Texto que describa la imagen') 
       .col-lg-11
-        p(data-aos="fade-down") Por otro lado, es importante definir las actividades a realizar para la migración de los protocolos IPv4 a IPv6, cabe recordar que las Ipv son las conexiones de internet, siendo la IPv4 más antigua y vulnerable, a partir del 2020 se migró a la IPv6. En esta fase se realizan actividades de direccionamiento, diseño, montaje, ejecución y corrección de pruebas, activación de políticas de SPI, validación de funcionalidad, a continuación, se describen metas, entregables e instrumentos para la migración de Ipv4 a Ipv6.
-        p(data-aos="fade-down") La siguiente tabla describe la meta, el resultado y el instrumento para la migración de Ipv4 a Ipv6. 
+        p(data-aos="fade-down") Por otro lado, es importante definir las actividades a realizar para la migración de los protocolos IPv4 a IPv6, cabe recordar que las IPv son las conexiones de internet, siendo la IPv4 más antigua y vulnerable, a partir del 2020 se migró a la IPv6. En esta fase se realizan actividades de direccionamiento, diseño, montaje, ejecución y corrección de pruebas, activación de políticas de SPI, validación de funcionalidad, a continuación, se describen metas, entregables e instrumentos para la migración de IPv4 a IPv6.
+        p(data-aos="fade-down") La siguiente tabla describe la meta, el resultado y el instrumento para la migración de IPv4 a IPv6. 
     .row 
       .col-lg-1
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Tabla 2
-          p(data-aos="fade-down").mb-0 #[i Migración Ipv4-Ipv6]
+          p(data-aos="fade-down").mb-0 #[i Migración IPv4-IPv6]
         .tabla-a.color-acento-contenido.mt-5
            table
             caption #[b Nota.] Tomada de MinTIC, 2016, p. 30.
@@ -270,7 +270,7 @@
               tr
                 th Metas
                 th Resultado
-                th INSTRUMENTOS MSPI
+                th Instrumentos MSPI
             tbody
               tr
                 td Implementar la estrategia de migración IPv4 a IPv6.
@@ -356,7 +356,7 @@
 
                     li 
                       i.fas.fa-check
-                      p.color-white.mb-0 Especificar frecuencia, métodos, y responsables.
+                      p.color-white.mb-0 Especificar frecuencia, métodos y responsables.
 
                     li 
                       i.fas.fa-check
@@ -435,7 +435,7 @@
               tr
                 th Metas
                 th Resultado
-                th INSTRUMENTOS MSPI
+                th Instrumentos MSPI
             tbody
               tr
                 td 

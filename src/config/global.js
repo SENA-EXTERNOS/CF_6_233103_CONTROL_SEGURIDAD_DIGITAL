@@ -228,7 +228,7 @@ export default {
     {
       termino: 'Sistema de gestión sostenible',
       significado:
-        'generan la percepción y aceptación de un estado más transparente, abierto al público, participativo y colaborativo, garantizando que la información entregada al ciudadano cuenta con controles y criterios de seguridad, documentado cada incidente que altere o modifique algún dato dentro del universo de información almacenada.',
+        'generan la percepción y aceptación de un estado más transparente, abierto al público, participativo y colaborativo, garantizando que la información entregada al ciudadano cuenta con controles y criterios de seguridad, documentando cada incidente que altere o modifique algún dato dentro del universo de información almacenada.',
     },
     {
       termino: 'Soporte',
@@ -397,7 +397,7 @@ export default {
       referencia:
         'LEY 1928 de 2018 [CONGRESO DE COLOMBIA]. Por medio de la cual se aprueba el Convenio sobre la Ciberdelincuencia, adoptado el 23 de noviembre de 2001, en Budapest. Diario oficial 50664 DE JULIO 24 DE 2018, 24 de julio de 2018. COLECCIÓN DE LEGISLACIÓN COLOMBIANA. Legis Editores.',
       link:
-        'https://xperta.legis.co/visor/legcol/legcol_bf13eeed23da4ca4bbc9653685bd73ea020nf9/coleccion-de-legislacion-colombiana/ley-1928-de-julio-24-de-2018',
+        'http://www.lexbase.co/lexdocs/indice/2018/l1928de2018#:~:text=%22%20LEY%201928%20DE%202018%20(julio,noviembre%20de%202001%2C%20en%20Budapest',
     },
     {
       referencia:
