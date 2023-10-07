@@ -301,11 +301,6 @@ export default {
     },
     {
       referencia:
-        'PKI. (2022).<i> Integration with public key infrastructure.</i>',
-      link: 'https://support.kaspersky.com/ksc/sp3/en-US/89287.html',
-    },
-    {
-      referencia:
         'Policía Nacional de Colombia. (2014).<i> Ciberseguridad. Entorno colombiano.</i>',
       link: 'https://www.oas.org/juridico/spanish/cyber/cyb8_col.pdf',
     },
