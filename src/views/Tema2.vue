@@ -22,7 +22,7 @@
 
       .col-lg-6
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta clr--gris").mt-5
-          .row(titulo="Inexistencia")
+          .row(titulo="Inexistente")
             .col-12
               ul.lista-ul--color
                 li 
@@ -33,7 +33,7 @@
                  i.fas.fa-check
                  p.color-acordeon-blanco.mb-0 No se reconoce la información como un activo digital sensible e importante.
 
-          .row(titulo="Inicio")
+          .row(titulo="Inicial")
             .col-12
               ul.lista-ul--color
                 li 
@@ -48,7 +48,7 @@
                  i.fas.fa-check
                  p.color-acordeon-blanco.mb-0 Se detecta la necesidad de implementar el MSPI.
 
-          .row(titulo="Repetición")
+          .row(titulo="Repetible")
             .col-12
               ul.lista-ul--color
                 li 
@@ -67,7 +67,7 @@
                  i.fas.fa-check
                  p.color-acordeon-blanco.mb-0 La entidad hace la migración de IPv4 a IPv6 y cuenta con una planeación.
 
-          .row(titulo="Definición")
+          .row(titulo="Definido")
             .col-12
               ul.lista-ul--color
                 li 
@@ -95,7 +95,7 @@
                  p.color-acordeon-blanco.mb-0 Migración de IPv4 a IPv6 y documentación del plan de transición.
 
 
-          .row(titulo="Administración ")
+          .row(titulo="Administrativo")
             .col-12
               ul.lista-ul--color
                 li 
@@ -113,7 +113,7 @@
                  i.fas.fa-check
                  p.color-acordeon-blanco.mb-0 Prueba constante del uso del IPv6.
 
-          .row(titulo="Optimización")
+          .row(titulo="Optimizado")
             .col-12
               ul.lista-ul--color
                 li 

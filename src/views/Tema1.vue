@@ -179,7 +179,7 @@
           h5 Figura 3
           p(data-aos="fade-down").mb-0 #[i Fase de planificación MSPI]
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema1/img11.svg', alt='Texto que describa la imagen')  
           figcaption.mt-3 #[b Nota.] Tomada de MinTIC.
       .col-lg-2 
 
@@ -187,7 +187,7 @@
       .col-lg-7
         
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta clr--gris")
-          .row(titulo="Contexto:")
+          .row(titulo="Contexto de la entidad:")
             .col-12
               p(data-aos="fade-down").color-acordeon-blanco Se debe conocer, investigar y hallar oportunidades de mejora dentro del MSPI, para determinar los alcances del mismo.
 
