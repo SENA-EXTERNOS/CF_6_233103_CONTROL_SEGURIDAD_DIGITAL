@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366" height="389" viewBox="0 0 366 389">
+  <defs>
+    <filter id="Rectángulo_85140" x="0" y="0" width="366" height="389" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Rectángulo_85140-2" x="0" y="0" width="366" height="389" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_85140)">
+      <g id="Rectángulo_85140-3" data-name="Rectángulo 85140" transform="translate(9 6)" fill="rgba(255,255,255,0)" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <rect width="348" height="371" stroke="none"/>
+        <rect x="0.5" y="0.5" width="347" height="370" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_85140-4" data-name="Rectángulo 85140" width="348" height="371" transform="translate(9 6)" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_85140-2)">
+      <rect id="Rectángulo_85140-5" data-name="Rectángulo 85140" width="348" height="371" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Rectángulo_85140-6" data-name="Rectángulo 85140" transform="translate(9 6)" fill="none" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="348" height="371" stroke="none"/>
+      <rect x="0.5" y="0.5" width="347" height="370" fill="none"/>
+    </g>
+  </g>
+</svg>
